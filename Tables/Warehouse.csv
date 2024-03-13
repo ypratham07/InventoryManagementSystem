@@ -1,0 +1,21 @@
+ warehouse_id , warehouse_name , address , city , state , zip_code , capacity 
+1, Main Warehouse , 123 Main Street , Anytown , CA ,91234,100
+2, East Coast Warehouse , 456 Elm Street , Anycity , NY ,10001,50
+3, West Coast Warehouse , 789 Oak Street , Anyville , FL ,33001,25
+4, Northern Warehouse , 1000 Pine Street , Anytown , CA ,91235,10
+5, Southern Warehouse , 1234 Maple Street , Anycity , NY ,10002,15
+6, Central Warehouse , 4567 Elm Street , Anyville , FL ,33002,20
+7, Midwest Warehouse , 7890 Oak Street , Anytown , CA ,91236,5
+8, Mountain Warehouse , 12345 Pine Street , Anycity , NY ,10003,10
+9, Desert Warehouse , 45678 Elm Street , Anyville , FL ,33003,15
+10, Arctic Warehouse , 78901 Oak Street , Anytown , CA ,91237,20
+11, Antarctic Warehouse , 123456 Pine Street , Anycity , NY ,10004,5
+12, Warehouse 1 , 123 Main Street , Anytown , CA ,91238,100
+13, Warehouse 2 , 456 Elm Street , Anycity , NY ,10005,50
+14, Warehouse 3 , 789 Oak Street , Anyville , FL ,33004,25
+15, Warehouse 4 , 1000 Pine Street , Anytown , CA ,91239,10
+16, Warehouse 5 , 1234 Maple Street , Anycity , NY ,10006,15
+17, Warehouse 6 , 4567 Elm Street , Anyville , FL ,33005,20
+18, Warehouse 7 , 7890 Oak Street , Anytown , CA ,91240,5
+19, Warehouse 8 , 12345 Pine Street , Anycity , NY ,10007,10
+20, Warehouse 9 , 45678 Elm Street , Anyville , FL ,33006,15

@@ -1,0 +1,21 @@
+ supplier_id , supplier_name , contact_name , contact_number , address , city , state , zip_code 
+1, Acme Corp. , John Smith , 123-456-7890 , 123 Main Street , Anytown , CA ,91234
+2, XYZ Company , Jane Doe , 555-678-9012 , 456 Elm Street , Anycity , NY ,10001
+3, ABC Enterprises , Mary Johnson , 789-012-3456 , 789 Oak Street , Anyville , FL ,33001
+4, DEF Industries , Peter Jones , 901-234-5678 , 901 Elm Street , Anytown , CA ,91235
+5, GHI Company , Susan Brown , 800-345-6789 , 800 Main Street , Anycity , NY ,10002
+6, JKL Enterprises , Michael Green , 700-456-7890 , 700 Oak Street , Anyville , FL ,33002
+7, MNO Corp. , Sarah White , 600-567-8901 , 600 Elm Street , Anytown , CA ,91236
+8, PQR Company , David Black , 500-678-9012 , 500 Main Street , Anycity , NY ,10003
+9, STU Enterprises , Jane Grey , 400-789-0123 , 400 Oak Street , Anyville , FL ,33003
+10, VWX Corp. , John Brown , 300-890-1234 , 300 Elm Street , Anytown , CA ,91237
+11, YZ Company , Mary Green , 200-901-2345 , 200 Main Street , Anycity , NY ,10004
+12, ABC Enterprises , Michael White , 100-012-3456 , 100 Oak Street , Anyville , FL ,33004
+13, DEF Industries , Sarah Black , 999-987-6543 , 999 Elm Street , Anytown , CA ,91238
+14, GHI Company , David Grey , 888-876-5432 , 888 Main Street , Anycity , NY ,10005
+15, JKL Enterprises , Jane Brown , 777-765-4321 , 777 Oak Street , Anyville , FL ,33005
+16, MNO Corp. , Michael Green , 666-654-3210 , 666 Elm Street , Anytown , CA ,91239
+17, PQR Company , Sarah White , 555-543-2100 , 555 Main Street , Anycity , NY ,10006
+18, STU Enterprises , David Black , 444-432-1000 , 444 Oak Street , Anyville , FL ,33006
+19, VWX Corp. , Jane Grey , 333-321-0000 , 333 Elm Street , Anytown , CA ,91240
+20, YZ Company , John Brown , 222-210-0000 , 222 Main Street , Anycity , NY ,10007
